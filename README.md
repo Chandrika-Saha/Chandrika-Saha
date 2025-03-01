@@ -2,12 +2,12 @@
 
 ### 📜 Words of Wisdom  
 
-**“Hardening of the arteries and hardening of the mind go hand in hand. The scientist must constantly be willing to change his mind.”**  
-— *Isaac Asimov, Foundation*  
+**“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.”**  
+— *Isaac Asimov*  
 
-Funny how people resist change like it’s optional. Imagine if gravity worked that way—  
-*"I refuse to acknowledge falling!"*  
-The universe doesn’t argue; it just moves on. Adapt, or be left behind (preferably not mid-air). 😆  
+Funny how technology races ahead while wisdom takes a coffee break. Imagine if software updates worked like that—  
+*"We have the data, but let’s wait a century to understand it."*  
+Progress doesn’t wait; it just moves forward. Keep up, or be left buffering. 😆  
 
 
 ### 🚀 About Me
