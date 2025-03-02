@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandrika Saha 😃 
+# 👋 Hi, I'm Chandrika 😃 
 
 ### 📜 Words of Wisdom  
 
