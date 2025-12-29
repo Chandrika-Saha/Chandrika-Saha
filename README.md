@@ -28,7 +28,7 @@ Progress doesn’t wait; it just moves forward. Keep up, or be left buffering. �
 📊 **Published IEEE & MDPI Researcher** specializing in LSTM networks, DRL-GAN, and LLM optimization  
 👨‍🏫 **IT Professor at Fanshawe College** | **Data Scientist at Outlier** (LLM fine-tuning & RLHF)  
 🎓 **MSc Computer Science, Western University** (4.0 GPA) | **PM Gold Medal Award 2019**  
-🌍 **Multilingual**: English • বাংলা (Native) • हिंदी • 日本語 • Français
+🌍 **Languages**: English • বাংলা (Native) • हिंदी • 日本語 • Français
 
 ```python
 class ChandrikaSaha:
