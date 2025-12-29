@@ -149,8 +149,6 @@ class ChandrikaSaha:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrika-Saha&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chandrika-Saha&color=blueviolet&style=flat-square&label=Profile+Views)
-
 
 <!-- Option 1: Standard stats -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)-->
