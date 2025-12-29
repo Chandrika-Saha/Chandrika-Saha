@@ -153,19 +153,19 @@ class ChandrikaSaha:
 
 
 <!-- Option 1: Standard stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)-->
 
 <!-- Option 2: Alternative host -->
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true)
+<!-- ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true) -->
 
 <!-- Option 3: Compact language stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true&langs_count=8) -->
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chandrika-Saha&theme=radical&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Chandrika-Saha&theme=radical&hide_border=true) -->
 
 <!-- Activity Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandrika-Saha&theme=tokyo-night)](https://github.com/Chandrika-Saha)
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandrika-Saha&theme=tokyo-night)](https://github.com/Chandrika-Saha) -->
 
 
 </div>
