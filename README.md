@@ -140,12 +140,12 @@ class ChandrikaSaha:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandrika-Saha&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrika-Saha&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
