@@ -142,11 +142,11 @@ class ChandrikaSaha:
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=tokyonight)](https://github.com/Chandrika-Saha)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=tokyonight)](https://github.com/Chandrika-Saha)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrika-Saha&theme=radical&hide_border=true" alt="GitHub Streak" />
+![Profile Views](https://komarev.com/ghpvc/?username=Chandrika-Saha&color=brightgreen)
 
 
 </div>
