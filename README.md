@@ -145,7 +145,8 @@ class ChandrikaSaha:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrika-Saha&theme=radical&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](streak-stats.demolab.com)](https://git.io/streak-stats)
+
 
 </div>
 
