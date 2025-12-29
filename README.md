@@ -169,8 +169,8 @@ class ChandrikaSaha:
 
 **Open to:** Full-time ML Engineer | Applied Scientist | AI Researcher roles
 
-![Visitor Count](https://profile-counter.glitch.me//count.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitor Count](https://profile-counter.glitch.me/Chandrika-Saha/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Chandrika-Saha&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ⭐️ From [Chandrika Saha](https://github.com/Chandrika-Saha) | Last Updated: December 2025
 
