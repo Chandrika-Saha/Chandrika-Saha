@@ -137,17 +137,17 @@ class ChandrikaSaha:
 
 ---
 
-### 📊 GitHub Analytics
+<!-- ### 📊 GitHub Analytics -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandrika-Saha&theme=tokyo-night)](https://github.com/Chandrika-Saha)
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandrika-Saha&theme=tokyo-night)](https://github.com/Chandrika-Saha) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Chandrika-Saha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrika-Saha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrika-Saha&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrika-Saha&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
 
 
 <!-- Option 1: Standard stats -->
@@ -188,7 +188,7 @@ class ChandrikaSaha:
 
 **Open to:** Full-time ML Engineer | Applied Scientist | AI Researcher roles
 
-![Visitor Count](https://profile-counter.glitch.me/Chandrika-Saha/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Chandrika-Saha/count.svg) -->
 <img src="https://komarev.com/ghpvc/?username=Chandrika-Saha&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 
